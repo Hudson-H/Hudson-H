@@ -3,12 +3,11 @@ Hudson Henrique da Silva ![](https://user-images.githubusercontent.com/18350557/
 
 * :mortar_board: (almost) Bachelor's degree in Computer Science at Universidade Estadual de Maringá
 * :computer: Typescript, Python, C, Java
+* :mailbox: [hudsonhdasilva70@gmail.com](mailto:hudsonhdasilva70@gmail.com)
 
 # About me
 Im finishing my degree in Computer Science at Universidade Estadual de Maringá (UEM) and im focusing in web development.
-I already worked with frameworks like NodeJS and React
-
-* ✉️ [hudsonhdasilva70@gmail.com](mailto:hudsonhdasilva70@gmail.com)
+I already worked with frameworks like NodeJS and React.
 
 ### Backend and Database
 
